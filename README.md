@@ -68,3 +68,5 @@ if __name__ == "__main__":
 # RESULT
 
 Thus the implementation of FIFO page replacement is successfully executed.
+
+
